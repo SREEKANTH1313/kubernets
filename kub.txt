@@ -1,3 +1,5 @@
+      # Before you install kubernets/minikube in your system 
+      # please to select 2 or more prooceesors in your system.
       # How to install Kubernets in ubuntu
       nproc
       sudo apt-get update -y
