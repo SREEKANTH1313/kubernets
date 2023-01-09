@@ -1,3 +1,4 @@
+      # How to install Kubernets in ubuntu
       nproc
       sudo apt-get update -y
       sudo apt-get upgrade -y
