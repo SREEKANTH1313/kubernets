@@ -1,0 +1,70 @@
+﻿                       
+Requires:
+
+    • Java
+    • Git
+    • Maven
+    • Jenkins
+      
+
+                                                        Jenkins Installation Steps For  20.04 version
+    1. Java:
+       *    sudo apt install openjdk-8-jdk
+      *    java -version
+      
+2.  Git
+
+     * sudo apt  install git
+     *  git –version
+
+3. Maven
+
+     *   sudo apt install maven
+*     mvn –version
+
+4. Jenkins
+      
+*  wget  -q  -O  - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+*  sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ >   /etc/apt/sources.list.d/jenkins.list'
+*  sudo apt update
+*  sudo apt-get  install jenkins
+
+
+
+
+
+
+Jenkins Installation Steps For  22.04 version
+
+       1. Java:
+       *    sudo apt install  default-jdk
+      *    java -version
+      
+           2.  Git
+
+              * sudo apt  install git
+              *  git –version
+
+          3. Maven
+
+             *   sudo apt install maven
+             *     mvn –version
+
+          4. Jenkins
+      
+            *  wget  -q  -O  - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+            *  sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ >   /etc/apt/sources.list.d/jenkins.list'
+           *  sudo apt update
+*  sudo apt-get  install jenkins
+
+Setup Localhost:8080:
+
+* localhost:8080      # search in new tab
+
+1. sudo cat  copy the path 
+
+ 
+
+
+
+    
