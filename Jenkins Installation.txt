@@ -61,7 +61,8 @@ Setup Localhost:8080:
 
 * localhost:8080      # search in new tab
 
-1. sudo cat  copy the path 
+1.  sudo cat /var/lib/jenkins/secrets/initialAdminPassword # This command is used to get your jenkins password
+
 
 I f you get  below error 
 
